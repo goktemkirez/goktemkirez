@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Orcun Goktem</h1>
 <h3 align="center">React & .NET developer from Turkey</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=goktemkirez&rank=S,AAA,A&row=2&column=3" alt="goktemkirez" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=goktemkirez&rank=SSS,SS,S,AAA,A&row=2&column=3" alt="goktemkirez" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
