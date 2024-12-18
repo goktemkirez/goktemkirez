@@ -11,7 +11,7 @@
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer" style="margin-right: 2px"> <img
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer" style="margin-right: 20px"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
             alt="react" width="40" height="40" /> </a> 
   <a href="https://reactnative.dev/" target="_blank"
