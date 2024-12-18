@@ -1,12 +1,3 @@
-<style>
-  .withoutUnderline {
-    text-decoration: none;
-  }
-  .margin20 {
-    margin: '20px';
-  }
-</style>
-
 <h1 align="center">Hi 👋, I'm Orcun Goktem</h1>
 <h3 align="center">React & .NET developer from Turkey</h3>
 
@@ -20,10 +11,10 @@
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
-  <a class="withoutUnderline" href="https://reactjs.org/" target="_blank" rel="noreferrer" style="margin-right: 20px"> <img
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer" style="text-decoration: none"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
             alt="react" width="40" height="40" /> </a> 
-  <a class="margin20" href="https://reactnative.dev/" target="_blank"
+  <a href="https://reactnative.dev/" target="_blank"
         rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40"
             height="40" /> </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img
